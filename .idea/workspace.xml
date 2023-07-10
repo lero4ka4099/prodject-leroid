@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e9cb3fe-271b-4049-9e81-08412a436971" name="Changes" comment="" />
+    <list default="true" id="9e9cb3fe-271b-4049-9e81-08412a436971" name="Changes" comment="git add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,11 +79,24 @@
       <option name="presentableId" value="Default" />
       <updated>1688668774514</updated>
       <workItem from="1688668775087" duration="4383000" />
-      <workItem from="1688999293696" duration="2187000" />
+      <workItem from="1688999293696" duration="2586000" />
     </task>
+    <task id="LOCAL-00001" summary="git add">
+      <option name="closed" value="true" />
+      <created>1689006739865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689006739866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git add" />
+    <option name="LAST_COMMIT_MESSAGE" value="git add" />
   </component>
 </project>

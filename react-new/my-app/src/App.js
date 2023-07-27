@@ -43,7 +43,6 @@ function App() {
               <Route path='/products/:id' element={<Page />} />
 
               <Route path='*' element={<PageNotFound/>} />
-              <Route />
           </Routes>
       </div>
 

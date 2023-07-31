@@ -6,8 +6,12 @@ const Page = () => {
     useEffect(() => {
         const getAllPosts = () => new Promise((resolve, reject) => {
             const response = fetch('https://jsonplaceholder.typicode.com/posts/1');
-            resolve(response);
-            reject("Failed");
+           if(response){
+               resolve(response);
+            }
+           else {
+               reject("Failed");
+           }
         });
         getAllPosts()
             .then((response) => {

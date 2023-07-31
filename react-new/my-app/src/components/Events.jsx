@@ -6,7 +6,7 @@ const Events = () => {
             console.log('Click');
         }
         window.addEventListener('click', handleClick);
-    })
+    }, [])
     return (
         <div className="box">
 

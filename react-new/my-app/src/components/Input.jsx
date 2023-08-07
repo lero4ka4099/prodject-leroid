@@ -1,6 +1,6 @@
 const Input = (props) => {
     return(
-        <input>{props.text}</input>
+        <input type='text' placeholder='Enter text' />
     )
 }
 export default Input;

@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e9cb3fe-271b-4049-9e81-08412a436971" name="Changes" comment="lesson #6">
-      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-6/MainHome.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-6/NewList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-6/Widget.jsx" afterDir="false" />
+    <list default="true" id="9e9cb3fe-271b-4049-9e81-08412a436971" name="Changes" comment="lesson 6">
+      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/TodoList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-8/Counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-8/CounterProvider.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/Home.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/Input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/Input.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/Item.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/Widget.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/HeaderMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/HeaderMenu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/Input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Input.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/Item.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/dz-6/NewList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-6/NewList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-new/my-app/src/pages/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/pages/About.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-new/my-app/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/pages/Home.jsx" afterDir="false" />
     </list>
@@ -43,26 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/prodject-leroid/react-new/my-app/src/components/dz-6",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/prodject-leroid/react-new/my-app/src/components/dz-6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\prodject-leroid\react-new\my-app\src\components\dz-6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\prodject-leroid\react-new\my-app\src\components\dz-7" />
       <recent name="D:\prodject-leroid\react-new" />
     </key>
   </component>
@@ -110,7 +114,10 @@
       <workItem from="1689611165068" duration="4922000" />
       <workItem from="1689869564638" duration="19593000" />
       <workItem from="1690820349048" duration="2630000" />
-      <workItem from="1691079387741" duration="6248000" />
+      <workItem from="1691079387741" duration="10164000" />
+      <workItem from="1691586000233" duration="301000" />
+      <workItem from="1691586320569" duration="5012000" />
+      <workItem from="1692024576216" duration="6318000" />
     </task>
     <task id="LOCAL-00001" summary="git add">
       <option name="closed" value="true" />
@@ -184,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690823415476</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson 6">
+      <option name="closed" value="true" />
+      <created>1691420476277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691420476277</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +212,18 @@
     <MESSAGE value="lesson #4" />
     <MESSAGE value="lesson #5" />
     <MESSAGE value="lesson #6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson #6" />
+    <MESSAGE value="lesson 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/react-new/my-app/src/components/dz-7/TodoList.jsx</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

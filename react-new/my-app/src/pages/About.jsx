@@ -1,19 +1,11 @@
-import Item from "../components/Item"
-import {useState} from "react";
+import TodoList from "../components/dz-7/TodoList";
+
 const About = () => {
-    // const [todos,setTodos] = useState([]);
-    //
-    // const handleCreateTodo = () => {
-    //     const newTodo = {
-    //         id: Date.now(),
-    //         title: title,
-    //
-    //     }
-    // }
     return (
         <div>
             <h1>About</h1>
-            <Item/>
+            <TodoList />
+
         </div>
 
     )

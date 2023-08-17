@@ -4,7 +4,6 @@ import {UserContext} from "../../pages/Home";
 const NewList = () => {
     const usersData = useContext(UserContext);
     usersData.items.push({id: 55, name: 'item 55'})
-    console.log(usersData, 'usersData');
     return (
         <div>
             <h1>NewList</h1>

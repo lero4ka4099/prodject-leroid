@@ -1,4 +1,4 @@
-import Button from "./Button";
+import Button from "./dz-7/Button";
 
 const HeaderMenu = () => {
     const textButton = 'Main';

@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e9cb3fe-271b-4049-9e81-08412a436971" name="Changes" comment="lesson 8">
-      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/EditForm.jsx" afterDir="false" />
+    <list default="true" id="9e9cb3fe-271b-4049-9e81-08412a436971" name="Changes" comment="lesson 7">
+      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-9/Products.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-9/useFetch.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Input.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/Item.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/TodoList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/components/dz-7/TodoList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-new/my-app/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-new/my-app/src/pages/Home.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,7 @@
       <workItem from="1691079387741" duration="10164000" />
       <workItem from="1691586000233" duration="301000" />
       <workItem from="1691586320569" duration="5012000" />
-      <workItem from="1692024576216" duration="13569000" />
+      <workItem from="1692024576216" duration="16274000" />
     </task>
     <task id="LOCAL-00001" summary="git add">
       <option name="closed" value="true" />
@@ -200,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692278934913</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lesson 7">
+      <option name="closed" value="true" />
+      <created>1692454276041</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692454276041</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,14 +221,15 @@
     <MESSAGE value="lesson #6" />
     <MESSAGE value="lesson 6" />
     <MESSAGE value="lesson 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 8" />
+    <MESSAGE value="lesson 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/react-new/my-app/src/components/dz-7/TodoList.jsx</url>
-          <line>18</line>
+          <line>17</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>

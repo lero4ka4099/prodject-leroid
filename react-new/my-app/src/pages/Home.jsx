@@ -1,6 +1,7 @@
 import {createContext} from 'react';
 import MainHome from '../components/dz-6/MainHome'
 import Counter from "../components/dz-8/Counter";
+import Products from "../components/dz-9/Products";
 
 export const UserContext = createContext(null);
 
@@ -23,6 +24,7 @@ const Home = () => {
 
             <div></div>
             <Counter />
+            <Products />
 
         </div>
 

@@ -1,7 +1,7 @@
 const Button = (props) => {
-    const {text, onClick} = props;
+    const {text, onClick, type= "button"} = props;
     return(
-        <button onClick={onClick}>{text}</button>
+        <button type={type} onClick={onClick}>{text}</button>
     )
 }
 export default Button;
